@@ -1,3 +1,5 @@
+#TEST
+#Version 1.1
 word = input('')
 new_word = ''
 vow ='aeyuioAEYUIO'
